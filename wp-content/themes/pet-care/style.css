@@ -6,3 +6,23 @@ Template:       twentytwentyfive
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+body {
+    background-color: #fdf7f0; 
+    color: #333333;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  
+  h1, h2, h3 {
+    color: #5a3e1b; 
+  }
+  
+  a {
+    color: #a6753c; 
+  }
+  
+  .site-footer {
+    background-color: #f2e7d5; 
+    text-align: center;
+    padding: 1em 0;
+  }
