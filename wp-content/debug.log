@@ -138,3 +138,5 @@ Stack trace:
 #2 [internal function]: IC_EPC_Tracking->fatal()
 #3 {main}
   thrown in /workspaces/Assignment-4-pr3/.wordpress/wp-content/plugins/post-type-x/core/includes/tracking.php on line 117
+[22-Apr-2025 12:36:35 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-4-pr5/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[22-Apr-2025 12:36:42 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-4-pr5/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
