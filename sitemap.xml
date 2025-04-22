@@ -27,11 +27,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/about-us/
         </loc>
     </url>
@@ -52,12 +47,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/catalog/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/catalog/interactive-puzzle-toy-for-dogs-and-cats/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/catalog/starter-aquarium-kit-10-gallon/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/catalog/pet-grooming-kit-5-in-1-tools/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/catalog/premium-cat-food-bundle-all-life-stages/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/catalog/all-natural-puppy-training-treats/
         </loc>
     </url>
     <url>
